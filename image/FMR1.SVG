@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_13" transform="rotate(-179.4427032470703 328.55291748046875,224.75248718261713) " height="223.698337" width="286.208144" y="112.903322" x="185.448858" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#bfbfbf"/>
+  <text fill="#000000" stroke-width="0" x="543.5" y="245.5" id="svg_1" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(42.807193756103516,0,0,10.453213387373808,-22953.45584690571,-2236.220046119465) " stroke="#000000"/>
+  <rect fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" x="399.5" y="255.5" width="0" height="0" id="svg_2"/>
+  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="483.5" y="261.5" id="svg_4" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve"/>
+  <text stroke="#000000" transform="matrix(35.9911059921463,0,0,5.8789770315109315,-4553.742871123587,-803.6527829446512) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_5" y="184.5" x="134.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00ff00"/>
+  <text stroke="#000000" transform="matrix(3.660904988208898,0,0,3.653846263885498,-750.4086990767289,-486.9807894229889) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_8" y="204.5" x="295.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#003f7f">FMR</text>
+  <rect stroke="#000000" id="svg_9" height="21.000001" width="287" y="155.5" x="184.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#003f7f"/>
+  <rect id="svg_10" stroke="#000000" height="21.000001" width="287" y="271.5" x="183" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#003f7f"/>
+  <rect stroke="#000000" transform="rotate(135.34385681152344 232.18212890625,159.9368133544922) " id="svg_11" height="21.000001" width="112.206634" y="149.436814" x="176.078813" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#007fff"/>
+  <rect id="svg_12" stroke="#000000" transform="rotate(135.34385681152344 423.5,289) " height="21.000001" width="112.206634" y="278.500001" x="367.396692" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#007fff"/>
+ </g>
+</svg>
