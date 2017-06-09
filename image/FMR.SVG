@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <radialGradient spreadMethod="pad" id="svg_7">
+   <stop offset="0.444031" stop-color="#00ffff"/>
+   <stop offset="1" stop-color="#ff0000"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="url(#svg_7)" transform="matrix(7.665577654107393,0,0,10.186226886663988,-3138.7271177574257,-2288.1214516989926) " xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="24" id="svg_5" y="258.175264" x="455.345249" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,2,2,2,2,2" stroke-width="0" fill="#1f5387">FMR</text>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <rect stroke="#000000" id="svg_13" transform="rotate(-179.4427032470703 358.8268737792969,247.49064636230466) " height="322.04007" width="499.052141" y="86.470618" x="109.300813" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#bfbfbf"/>
+  <text stroke="#000000" fill="#000000" stroke-width="0" x="543.5" y="245.5" id="svg_1" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(42.807193756103516,0,0,10.453213387373808,-22953.45584690571,-2236.220046119465) "/>
+  <rect stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" x="399.5" y="255.5" width="0" height="0" id="svg_2"/>
+  <text stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="483.5" y="261.5" id="svg_4" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve"/>
+  <text stroke="#000000" style="vector-effect: non-scaling-stroke;" transform="matrix(35.9911059921463,0,0,5.8789770315109315,-4553.742871123587,-803.6527829446512) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_5" y="184.5" x="134.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00ff00"/>
+  <text stroke="#000000" transform="matrix(7.48823875965545,0,0,5.889567578445688,-1851.4068771037698,-905.863354705765) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_8" y="204.5" x="295.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#003f7f">FMR</text>
+  <rect stroke="#000000" id="svg_9" height="21.000001" width="496.666663" y="147.5" x="111.500004" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#003f7f"/>
+  <rect stroke="#000000" id="svg_10" height="21.000001" width="497.999985" y="330.166667" x="107" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#003f7f"/>
+  <rect stroke="#000000" transform="rotate(135.34385681152344 172.18211364746094,145.93681335449216) " id="svg_11" height="22.174779" width="150.855445" y="134.849422" x="96.754397" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#007fff"/>
+  <rect stroke="#000000" id="svg_12" transform="rotate(135.34385681152344 552.1228637695312,354.97174072265625) " height="21.000001" width="129.199513" y="344.471762" x="487.523102" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#007fff"/>
+ </g>
+</svg>
